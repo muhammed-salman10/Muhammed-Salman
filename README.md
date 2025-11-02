@@ -1,6 +1,5 @@
 # 👋 Hey,I'm Muhammed-Salman
-# About Me:
-
+ About Me:
 Creative Front-End Developer specialized in the MERN stack, focused on crafting seamless, high-performance web applications. Experienced in real-world company projects with strong attention to UI/UX, code quality, and scalability. Always exploring modern technologies to enhance user experiences,Continuously learning and improving to deliver high-quality digital experiences.
 
 🔭 Real-world company projects and personal MERN stack applications focused on clean UI, performance, and scalability.<br>👯Innovative front-end or full-stack web projects, open-source contributions, and creative UI/UX-focused applications<br>🌱API integration, advanced React features, TypeScript, and animation with GSAP to enhance interactivity and performance in modern web apps.<br>💬 React, Tailwind CSS, Next.js, and creating modern, responsive web interfaces.<br>⚡ I love turning ideas into interactive web experiences and continuously exploring new tools to make development smoother and more fun!
